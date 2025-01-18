@@ -1,0 +1,8 @@
+.options {
+  display: flex;
+  gap: 5px;
+}
+
+.optionItem {
+  padding: 5px;
+}
